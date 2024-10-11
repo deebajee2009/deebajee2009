@@ -1,6 +1,7 @@
  Hi there 👋
-- 🔭 👶 I am currently working on exploring React and Django 🚀 👩🏻‍🚀 
-- 🌱 👷🏻  My Primary Major was trol Engineering.
+- 🔭 👶 I am Davood and obsessed with Large & Scalable software design & paractices 🚀 👩🏻‍🚀 
+- 💼🌟 I have experiences in Python projects (  Data Analysis & Engineering & Backend ) 💡✨
+- 🌱 👷🏻  My Primary Major was Petroleum Engineering.
 
-- 🤔 🤝 looking to collaborate in new projects...🤏
--
+- 🤔 🤝 looking to collaborate in new projects & challenges ...🤏
+
